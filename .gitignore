@@ -1,0 +1,4 @@
+# files to ignore for code compilation
+*.elf
+*.hex
+*.o
