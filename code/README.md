@@ -1,2 +1,2 @@
 # code
-Using Microchip Studio.
+Using Microchip Studio 7.
